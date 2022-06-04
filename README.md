@@ -1,5 +1,5 @@
 ###                                                    Hi there 👋 I am Bhavika
-🔭I am a CSE undergraduate student. I am Co,petitive Programmer and Frontend Developer.
+🔭I am a CSE undergraduate student. I am Competitive Programmer and Frontend Developer.
 
 🌱 I’m currently learning Backend Web Development.
 
