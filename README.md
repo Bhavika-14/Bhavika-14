@@ -7,7 +7,7 @@ How to reach me I'm most active on Linkedin!
 
 My Skills
 
-[react image](https://user-images.githubusercontent.com/91602025/171986072-e90ae63c-8d8c-4df3-9252-f688c153d810.png)
+[react](https://user-images.githubusercontent.com/91602025/171986072-e90ae63c-8d8c-4df3-9252-f688c153d810.png)
 
 
 
