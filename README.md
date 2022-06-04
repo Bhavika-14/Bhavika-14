@@ -1,13 +1,13 @@
 ###                                                    Hi there 👋 I am Bhavika
-I am a CSE undergraduate student. I am Co,petitive Programmer and Frontend Developer.
+🔭I am a CSE undergraduate student. I am Co,petitive Programmer and Frontend Developer.
 
-I am currently learning Backend Web Development.
+🌱 I’m currently learning Backend Web Development.
 
-How to reach me I'm most active on Linkedin!
+📫 How to reach me I'm most active on Linkedin!
 
 My Skills
 
-[react](https://user-images.githubusercontent.com/91602025/171986072-e90ae63c-8d8c-4df3-9252-f688c153d810.png)
+![react](https://user-images.githubusercontent.com/91602025/171986072-e90ae63c-8d8c-4df3-9252-f688c153d810.png)
 
 
 
