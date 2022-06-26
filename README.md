@@ -6,6 +6,7 @@
 - 📫 How to reach me I'm most active on Linkedin!
 
 - My Skills
+- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
 
 ![react](https://user-images.githubusercontent.com/91602025/171986072-e90ae63c-8d8c-4df3-9252-f688c153d810.png)
 ![pythonimage](https://user-images.githubusercontent.com/91602025/171986611-22cb9d14-cb68-438e-898d-c4c30301da96.jpeg)
