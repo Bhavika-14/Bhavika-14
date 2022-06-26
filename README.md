@@ -1,4 +1,4 @@
-###                                                    Hi there 👋 I am Bhavika
+###                                                    Hi there 👋 I am Bhavika Aggarwal
 - 🔭I am a CSE undergraduate student. I am Competitive Programmer and Frontend Developer.
 
 - 🌱 I’m currently learning Backend Web Development.
@@ -6,12 +6,16 @@
 - 📫 How to reach me I'm most active on Linkedin!
 
 - My Skills
-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/javascript-original.svg" title="Javascript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/python-original.svg" title="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/cplusplus-original.svg" title="C++" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/express-original.svg" title="Express" width="40" height="40" />
+ </div>
 
-![react](https://user-images.githubusercontent.com/91602025/171986072-e90ae63c-8d8c-4df3-9252-f688c153d810.png)
-![pythonimage](https://user-images.githubusercontent.com/91602025/171986611-22cb9d14-cb68-438e-898d-c4c30301da96.jpeg)
-![javascriptimage](https://user-images.githubusercontent.com/91602025/171986659-e3f81cb1-feea-44b2-9f05-3931d9d6911a.png)
-![c++image](https://user-images.githubusercontent.com/91602025/171986695-3c80417c-6f54-4039-9f95-eb2b28457d17.png)
 
 
 <!--
