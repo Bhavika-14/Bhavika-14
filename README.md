@@ -8,12 +8,12 @@
 - My Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/javascript-original.svg" title="Javascript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/python-original.svg" title="Python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/cplusplus-original.svg" title="C++" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/express-original.svg" title="Express" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" width="40" height="40" />
  </div>
 
 
