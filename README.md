@@ -5,6 +5,10 @@
 
 - 📫 How to reach me I'm most active on Linkedin!
 
+My Resume
+
+My Portfolio
+
 - My Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
@@ -13,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" />
-  <img src="/Desktop/Folder1/express-image.png" title="Express" width="40" height="40" background-color="white" />
+  <div background-color="white"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" width="40" height="40" /></div>
  </div>
 
 
