@@ -17,7 +17,7 @@ My Portfolio
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" />
-  <img src="https://github.com/Bhavika-14/Icons/express-image.png" title="Express" width="40" height="40" />
+  <img src="[https://github.com/Bhavika-14/Icons/express-image.png](https://github.com/Bhavika-14/Icons/blob/main/express-image.png)" title="Express" width="40" height="40" />
  </div>
 
 
