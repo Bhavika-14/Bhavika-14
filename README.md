@@ -1,5 +1,5 @@
 ###                                                    Hi there 👋 I am Bhavika Aggarwal
-- 🔭I am a CSE undergraduate student. I am Competitive Programmer and Frontend Developer.
+- 🔭I am a CSE undergraduate student. I am a blockchain developer.
 
 - 🌱 I’m currently learning Backend Web Development.
 
