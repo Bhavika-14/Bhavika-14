@@ -1,24 +1,22 @@
 ###                                                    Hi there 👋 I am Bhavika Aggarwal
-- 🔭I am a CSE undergraduate student. I am a blockchain developer.
+- 🔭I am a CSE undergraduate student. I am interested in Blockchain development and full stack web delopment.
 
-- 🌱 I’m currently learning Backend Web Development.
+- 🌱 I’m currently learning DeFi.
 
-- 📫 How to reach me I'm most active on Linkedin!
-
-My Resume
+- 📫 How to reach me I'm most active on Linkedin! [https://www.linkedin.com/in/bhavika-aggarwal-963aaa221]
 
 My Portfolio [https://bhavika-aggarwal.vercel.app/]
 
 - My Skills
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="80" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" />
-  <img src="https://github.com/Bhavika-14/Icons/blob/main/express image.png" title="Express" width="40" height="40" />
- </div>
+- 
+❖ Programming and Tools
+Python | JavaScript | Git
+
+❖ Web Development
+HTML | CSS | Bootstrap | Node.js | React | Express | MongoDB
+
+❖ Blockchain Development
+Solidity | Hardhat | Ethers.js | Truffle
 
 
 
