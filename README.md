@@ -9,14 +9,27 @@
 
 - My Skills
 
-  -  Programming and Tools
-     - Python | JavaScript | Git
-
   -  Web Development
-     - HTML | CSS | Bootstrap | Node.js | React | Express | MongoDB
+     - Next.js 
+     - React.js
+     - Firebase
+     - MongoDB
+     - Node.js
+     - Express
+     - Tailwind CSS
+     - Bootstrap
+     - HTML
+     - CSS
 
   -  Blockchain Development
-       - Solidity | Hardhat | Ethers.js | Truffle
+       - Solidity
+       - Hardhat
+       - Ethers.js
+       - Truffle
+  -  Programming and Tools
+     - Python
+     - JavaScript
+     - Git
 
 
 
