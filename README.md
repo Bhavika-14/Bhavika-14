@@ -5,17 +5,17 @@
 
 - 📫 How to reach me I'm most active on Linkedin! [https://www.linkedin.com/in/bhavika-aggarwal-963aaa221]
 
-My Portfolio [https://bhavika-aggarwal.vercel.app/]
+- My Portfolio [https://bhavika-aggarwal.vercel.app/]
 
 - My Skills
-- 
-❖ Programming and Tools
+
+- ❖ Programming and Tools
 Python | JavaScript | Git
 
-❖ Web Development
+- ❖ Web Development
 HTML | CSS | Bootstrap | Node.js | React | Express | MongoDB
 
-❖ Blockchain Development
+- ❖ Blockchain Development
 Solidity | Hardhat | Ethers.js | Truffle
 
 
