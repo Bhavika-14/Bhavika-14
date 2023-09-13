@@ -9,13 +9,13 @@
 
 - My Skills
 
-  - ❖ Programming and Tools
+  -  Programming and Tools
      - Python | JavaScript | Git
 
-  - ❖ Web Development
+  -  Web Development
      - HTML | CSS | Bootstrap | Node.js | React | Express | MongoDB
 
-  - ❖ Blockchain Development
+  -  Blockchain Development
        - Solidity | Hardhat | Ethers.js | Truffle
 
 
